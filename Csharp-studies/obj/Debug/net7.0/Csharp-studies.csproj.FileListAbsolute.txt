@@ -1,0 +1,15 @@
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\bin\Debug\net7.0\Csharp-studies.exe
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\bin\Debug\net7.0\Csharp-studies.deps.json
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\bin\Debug\net7.0\Csharp-studies.runtimeconfig.json
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\bin\Debug\net7.0\Csharp-studies.dll
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\bin\Debug\net7.0\Csharp-studies.pdb
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\obj\Debug\net7.0\Csharp-studies.csproj.AssemblyReference.cache
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\obj\Debug\net7.0\Csharp-studies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\obj\Debug\net7.0\Csharp-studies.AssemblyInfoInputs.cache
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\obj\Debug\net7.0\Csharp-studies.AssemblyInfo.cs
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\obj\Debug\net7.0\Csharp-studies.csproj.CoreCompileInputs.cache
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\obj\Debug\net7.0\Csharp-studies.dll
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\obj\Debug\net7.0\refint\Csharp-studies.dll
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\obj\Debug\net7.0\Csharp-studies.pdb
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\obj\Debug\net7.0\Csharp-studies.genruntimeconfig.cache
+C:\Users\Suellen\source\repos\Csharp-studies\Csharp-studies\obj\Debug\net7.0\ref\Csharp-studies.dll
